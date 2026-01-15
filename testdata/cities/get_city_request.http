@@ -1,0 +1,6 @@
+///
+@name get_city_request
+///
+
+GET http://example.com/cities/Mumbai HTTP/1.1
+Host: example.com

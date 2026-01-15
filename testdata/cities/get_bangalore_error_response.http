@@ -1,0 +1,11 @@
+///
+@name get_bangalore_error_response
+///
+
+HTTP/1.1 500 Internal Server Error
+Content-Type: application/json
+
+{
+  "error": "Internal server error",
+  "message": "Unable to fetch city data"
+}

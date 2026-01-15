@@ -1,0 +1,13 @@
+///
+@name get_bangalore_success_response
+///
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "city": "Bangalore",
+  "country": "India",
+  "population": 12400000,
+  "description": "Silicon Valley of India"
+}

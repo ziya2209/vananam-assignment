@@ -1,0 +1,13 @@
+///
+@name get_city_success_response
+///
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "city": "Mumbai",
+  "country": "India",
+  "population": 20000000,
+  "description": "Financial capital of India"
+}
